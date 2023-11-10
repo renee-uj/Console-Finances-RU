@@ -87,13 +87,16 @@ var finances = [
   ['Feb-2017', 671099],
 ];
 
-// 
-
-
-
-
-// 
-
 console.log('Financial Analysis')
 
+// Total months in string// 
+
 console.log('Total Months: ' + finances.length)
+
+// Total  net total amount of Profit/Losses over the entire period
+
+// average of the changes in Profit/Losses over the entire period
+
+// greatest increase in Profit/Losses (date and amount) 
+
+// greatest decrease in Profit/Losses (date and amount)
